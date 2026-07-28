@@ -1,2 +1,2 @@
 # Financial-Dashboard
-TCSAI Automated Dashboard
+TCS AI Automated Dashboard
